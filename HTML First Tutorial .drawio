@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.13">
   <diagram name="Page-1" id="IkVXpdRaMWaMDvUIDPMb">
-    <mxGraphModel dx="2543" dy="2867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1716" dy="2867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -247,7 +247,7 @@
             <mxPoint x="60.9090576171875" y="3360" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-540" y="3320" />
-              <mxPoint x="59" y="3320" />
+              <mxPoint x="-59" y="3320" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -261,19 +261,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BkEXjte8fH_iKjVfRJDS-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;HTML Top Level Tags&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=24;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="-897" y="3370" width="120" height="60" as="geometry" />
+          <mxGeometry x="-810" y="3380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BkEXjte8fH_iKjVfRJDS-29" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;HTML Inline Tags&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=24;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="-670" y="3370" width="120" height="60" as="geometry" />
+          <mxGeometry x="-638.25" y="3380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BkEXjte8fH_iKjVfRJDS-30" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;HTML Block Tags&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=24;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-440.25" y="3370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BkEXjte8fH_iKjVfRJDS-31" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;HTML Tags: Forms&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=24;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="-186" y="3370" width="120" height="60" as="geometry" />
+          <mxGeometry x="-288.25" y="3380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BkEXjte8fH_iKjVfRJDS-32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;HTML Tags : Lists&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=24;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="3370" width="120" height="60" as="geometry" />
+          <mxGeometry x="-138.25" y="3390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BkEXjte8fH_iKjVfRJDS-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.661;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;fontSize=24;fontColor=default;" edge="1" parent="1" source="BkEXjte8fH_iKjVfRJDS-24" target="BkEXjte8fH_iKjVfRJDS-28">
           <mxGeometry relative="1" as="geometry" />
@@ -285,7 +285,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-570" y="3330" />
-              <mxPoint x="-142" y="3330" />
+              <mxPoint x="-240" y="3330" />
+              <mxPoint x="-240" y="3380" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -400,8 +401,8 @@
         <mxCell id="BkEXjte8fH_iKjVfRJDS-74" value="" style="html=1;dashed=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.gmdl.star;strokeColor=none;fillColor=#3333FF;shadow=0;sketch=0;fontFamily=Comic Sans MS;fontSize=24;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="-820.5" y="4700" width="40.5" height="40.5" as="geometry" />
         </mxCell>
-        <mxCell id="BkEXjte8fH_iKjVfRJDS-75" value="&lt;div style=&quot;text-align: left; line-height: 120%;&quot;&gt;&lt;ul style=&quot;line-height: 120%;&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;Provide additional information about an element&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Attributes are defined within the opening tag, after an element’s name.&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Attributes include a name and a value.&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Format: Consists of the attribute name followed by an equals sign and then a quoted attribute value.&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontSize=24;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-768.25" y="4735.5" width="910" height="190" as="geometry" />
+        <mxCell id="BkEXjte8fH_iKjVfRJDS-75" value="&lt;div style=&quot;text-align: left; line-height: 120%;&quot;&gt;&lt;ul style=&quot;line-height: 120%;&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;Provide additional information about an element&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Attributes are defined within the opening tag, after an element’s name.&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Attributes include a name and a value.&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Format: Consists of the attribute name followed by an equals sign and then a quoted attribute value.&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontSize=24;fontColor=default;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="-697.94" y="4740.5" width="640" height="190" as="geometry" />
         </mxCell>
         <mxCell id="BkEXjte8fH_iKjVfRJDS-76" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;lt;p title=&quot;Institute&quot;&amp;gt; This Is a Good Institute. It is located in Nikol. &amp;lt;/p&amp;gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontSize=24;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="-703.25" y="4990" width="630" height="40" as="geometry" />
