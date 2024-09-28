@@ -623,7 +623,7 @@
         <mxCell id="BkEXjte8fH_iKjVfRJDS-153" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;A full web address in href attribute.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontSize=24;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-590.91" y="9200" width="330" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BkEXjte8fH_iKjVfRJDS-154" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;lt;a href=&quot;127.0.0.1:5500/relative_url.html&quot;&amp;gt;Visit shiksha skills institute&amp;lt;/a&amp;gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontSize=24;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="BkEXjte8fH_iKjVfRJDS-154" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;lt;a href=&quot;http://127.0.0.1:5500/relative_url.html&quot;&amp;gt;Visit shiksha skills institute&amp;lt;/a&amp;gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontSize=24;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-696.38" y="9420" width="650" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BkEXjte8fH_iKjVfRJDS-155" value="&lt;font color=&quot;#ff8000&quot; style=&quot;font-size: 20px;&quot;&gt;Relative URL:-&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontSize=24;fontColor=default;" parent="1" vertex="1">
