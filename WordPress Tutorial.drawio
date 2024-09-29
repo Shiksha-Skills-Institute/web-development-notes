@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Page-1" id="VkhgOL7BbBt0uQ7GGdSz">
-    <mxGraphModel>
+    <mxGraphModel dx="1884" dy="1032" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hELXfqqJR9sqA5ZzL3fo-1" value="WordPress Learning" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#909090;fillColor=#F5AB50;fontSize=30;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;fontColor=#1A1A1A;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-126.5" y="-196" width="308" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="hELXfqqJR9sqA5ZzL3fo-4" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.wordpress_2;fillColor=#00A7DA;strokeColor=none;rounded=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="-108" y="-104" width="68.8" height="68.8" as="geometry" />
+        </mxCell>
+        <mxCell id="hELXfqqJR9sqA5ZzL3fo-5" value="WordPress Learning" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#909090;fillColor=#F5AB50;fontSize=30;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;fontColor=#1A1A1A;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="81" y="-52" width="308" height="48" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
