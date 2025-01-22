@@ -212,7 +212,7 @@
         <mxCell id="IikVc3j5TeiNAf-yOBVd-110" value="&lt;pre&gt;::selection {&lt;br/&gt;  background: black;&lt;br/&gt;  color: white;&lt;br/&gt;}&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontFamily=Comic Sans MS;fontStyle=1;labelBackgroundColor=none;spacing=2;spacingTop=0;glass=0;spacingLeft=2;" parent="1" vertex="1">
           <mxGeometry x="49" y="4530" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="s3GM5YMx93uiWhPGy42m-6" value="&lt;pre&gt;button {&lt;br/&gt;  color: red;&lt;br/&gt;}&lt;br/&gt;&lt;br/&gt;button {&lt;br/&gt;  color: blue;&lt;br/&gt;}&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontFamily=Comic Sans MS;fontStyle=1;labelBackgroundColor=none;spacing=2;spacingTop=0;glass=0;spacingLeft=2;" vertex="1" parent="1">
+        <mxCell id="s3GM5YMx93uiWhPGy42m-6" value="&lt;pre&gt;button {&lt;br/&gt;  color: red;&lt;br/&gt;}&lt;br/&gt;&lt;br/&gt;button {&lt;br/&gt;  color: blue;&lt;br/&gt;}&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Comic Sans MS;fontStyle=1;labelBackgroundColor=none;spacing=2;spacingTop=0;glass=0;spacingLeft=2;" vertex="1" parent="1">
           <mxGeometry x="104" y="4951" width="119" height="135" as="geometry" />
         </mxCell>
         <mxCell id="IikVc3j5TeiNAf-yOBVd-42" value="CSS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontSize=15;" parent="1" vertex="1">
