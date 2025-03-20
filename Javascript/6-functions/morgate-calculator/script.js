@@ -10,37 +10,39 @@ form.addEventListener('submit', function(e) {
     var rate = parseFloat(formDataObj.get('rate'));
     var morgateType = formDataObj.get('morgate-type');
 
-    // Debugging inputs
-    console.log({ amount, term, rate, morgateType });
+    console.log(morgateType, "morgate Type")
 
-    // Validate Inputs
-    if (isNaN(amount) || amount <= 0) {
-        alert("Please enter a valid loan amount.");
-        return;
-    }
-    if (isNaN(term) || term <= 0) {
-        alert("Please enter a valid loan term.");
-        return;
-    }
-    if (isNaN(rate) || rate <= 0) {
-        alert("Please enter a valid interest rate.");
-        return;
-    }
+    if( morgateType == 'option1' ){
+        // Calculate EMI
+        var emi = calculateMonthlyEMI(amount, term, rate);
+       
+        // Update the UI
+        totalInstallment.innerHTML = `EMI: ₹${emi}`;
+    } else {
+        // Calculate EMI
+        var intrest = calculateMonthlyInterest(amount, term, rate);
 
-    // Calculate EMI
-    var emi = calculateMonthlyEMI(amount, term, rate);
-    console.log("EMI:", emi); // Debugging the EMI calculation
-
-    // Update the UI
-    totalInstallment.innerHTML = `EMI: ₹${emi}`;
+        // Update the UI
+        totalInstallment.innerHTML = `Monthly Interest: ₹${intrest}`;
+    }
+    
 });
 
 function calculateMonthlyEMI(amount, term, rate) {
     let monthlyRate = rate / (12); // Convert annual rate to monthly decimal
-    monthlyRate = monthlyRate / 100;
+    monthlyRate = monthlyRate / 12;
     term = term * 12;
     let emi = amount * monthlyRate *( Math.pow(1 + monthlyRate, term) / 
               (Math.pow(1 + monthlyRate, term) - 1) );
 
     return emi.toFixed(2); // Returning EMI rounded to 2 decimal places
+}
+
+function calculateMonthlyInterest(amount, term, rate) {
+    
+    let intrest = ( amount * rate * term ) / 100 
+
+    intrest = intrest / 12;
+
+    return intrest.toFixed(2); // Returning EMI rounded to 2 decimal places
 }
