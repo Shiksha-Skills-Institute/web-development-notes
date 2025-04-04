@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.3" pages="9">
   <diagram name="Tutorial - 1" id="k8TQjMo-aipzuLBUPIiT">
     <mxGraphModel dx="1434" dy="697" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFF7E8" math="0" shadow="0">
       <root>
@@ -521,6 +521,76 @@
         </mxCell>
         <mxCell id="58Jacb3D6gFMZGEjoEF0-4" value="&lt;pre&gt;&amp;lt;div class=&quot;container&quot; id=&quot;container&quot;&amp;gt;&lt;br/&gt;  &amp;lt;div&amp;gt;One&amp;lt;/div&amp;gt;&lt;br/&gt;  &amp;lt;div&amp;gt;Item two&amp;lt;/div&amp;gt;&lt;br/&gt;  &amp;lt;div&amp;gt;The item we will refer to as three&amp;lt;/div&amp;gt;&lt;br/&gt;&amp;lt;/div&amp;gt;&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontFamily=Comic Sans MS;fontStyle=1;labelBackgroundColor=none;spacing=2;spacingTop=0;glass=0;spacingLeft=2;" vertex="1" parent="MvPFP3vl5Rp2Un0GSyoH-1">
           <mxGeometry x="109" y="8268" width="358" height="106" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Tutorial - Animation" id="XHembcsbRstvu6N7mEtd">
+    <mxGraphModel dx="1408" dy="-6312" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFF7E8" math="0" shadow="0">
+      <root>
+        <mxCell id="ZsIja-42pi3I7BFp0bew-0" />
+        <mxCell id="ZsIja-42pi3I7BFp0bew-1" parent="ZsIja-42pi3I7BFp0bew-0" />
+        <mxCell id="ZsIja-42pi3I7BFp0bew-2" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;CSS Tutorial - Animation&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontFamily=Comic Sans MS;fontSize=34;gradientColor=none;rounded=1;glass=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="ZsIja-42pi3I7BFp0bew-1">
+          <mxGeometry x="271" y="7042" width="281" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsIja-42pi3I7BFp0bew-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="ZsIja-42pi3I7BFp0bew-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="38" y="7175" as="sourcePoint" />
+            <mxPoint x="98" y="7175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZsIja-42pi3I7BFp0bew-4" value="What is Keyframe" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontSize=22;" vertex="1" parent="ZsIja-42pi3I7BFp0bew-1">
+          <mxGeometry x="105" y="7157" width="204" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsIja-42pi3I7BFp0bew-7" value="&lt;pre&gt;.squere {&lt;br/&gt;    background-color: #000;&lt;br/&gt;    padding: 10px;&lt;br/&gt;    width: 50px;&lt;br/&gt;    height: 50px;&lt;br/&gt;    animation: size-increase 2s infinite;&lt;br/&gt;}&lt;br/&gt;&lt;br/&gt;@keyframes size-increase {&lt;br/&gt;    0%{&lt;br/&gt;        width: 60px;&lt;br/&gt;        transform: translateX(120px);&lt;br/&gt;    }&lt;br/&gt;    50% {&lt;br/&gt;        width: 100px;&lt;br/&gt;    }&lt;br/&gt;}&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontFamily=Comic Sans MS;fontStyle=1;labelBackgroundColor=none;spacing=2;spacingTop=0;glass=0;spacingLeft=2;" vertex="1" parent="ZsIja-42pi3I7BFp0bew-1">
+          <mxGeometry x="402.0042585551331" y="7493" width="314" height="279" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsIja-42pi3I7BFp0bew-9" value="&lt;pre&gt;    &amp;lt;div class=&quot;squere&quot;&amp;gt;&amp;lt;/div&amp;gt;&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontFamily=Comic Sans MS;fontStyle=1;labelBackgroundColor=none;spacing=2;spacingTop=0;glass=0;spacingLeft=2;" vertex="1" parent="ZsIja-42pi3I7BFp0bew-1">
+          <mxGeometry x="48" y="7511" width="235" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsIja-42pi3I7BFp0bew-6" value="CSS" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="ZsIja-42pi3I7BFp0bew-1">
+          <mxGeometry x="520" y="7447" width="48" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsIja-42pi3I7BFp0bew-8" value="HTML" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="ZsIja-42pi3I7BFp0bew-1">
+          <mxGeometry x="48" y="7447" width="61" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MQ7Utb6AShRAE8gJrkTa-1" value="Keyframe is the process&amp;nbsp; starting from the animation to ending" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="ZsIja-42pi3I7BFp0bew-1">
+          <mxGeometry x="65" y="7223" width="460" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Tutorial - Transition" id="Q-XJMI-6W1sMOb7IYsbq">
+    <mxGraphModel dx="1408" dy="-6312" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFF7E8" math="0" shadow="0">
+      <root>
+        <mxCell id="MtCVvyF4Ck1G8h2ZChGN-0" />
+        <mxCell id="MtCVvyF4Ck1G8h2ZChGN-1" parent="MtCVvyF4Ck1G8h2ZChGN-0" />
+        <mxCell id="MtCVvyF4Ck1G8h2ZChGN-2" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;CSS Tutorial - Transition&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontFamily=Comic Sans MS;fontSize=34;gradientColor=none;rounded=1;glass=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="MtCVvyF4Ck1G8h2ZChGN-1">
+          <mxGeometry x="269" y="7042" width="284" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="MtCVvyF4Ck1G8h2ZChGN-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="MtCVvyF4Ck1G8h2ZChGN-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="38" y="7175" as="sourcePoint" />
+            <mxPoint x="98" y="7175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MtCVvyF4Ck1G8h2ZChGN-5" value="What is Transition" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontSize=22;" vertex="1" parent="MtCVvyF4Ck1G8h2ZChGN-1">
+          <mxGeometry x="105" y="7157" width="210" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="MtCVvyF4Ck1G8h2ZChGN-9" value="" style="group" vertex="1" connectable="0" parent="MtCVvyF4Ck1G8h2ZChGN-1">
+          <mxGeometry x="573" y="8220" width="145.26425855513307" height="171" as="geometry" />
+        </mxCell>
+        <mxCell id="MtCVvyF4Ck1G8h2ZChGN-10" value="CSS" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="MtCVvyF4Ck1G8h2ZChGN-9">
+          <mxGeometry x="-38" y="-977" width="48" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MtCVvyF4Ck1G8h2ZChGN-11" value="&lt;pre&gt;.container {&lt;/pre&gt;&lt;pre&gt;  display: flex;&lt;/pre&gt;&lt;pre&gt;}&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontFamily=Comic Sans MS;fontStyle=1;labelBackgroundColor=none;spacing=2;spacingTop=0;glass=0;spacingLeft=2;" vertex="1" parent="MtCVvyF4Ck1G8h2ZChGN-9">
+          <mxGeometry x="-26.735741444866918" y="-924" width="134" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="MtCVvyF4Ck1G8h2ZChGN-12" value="HTML" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="MtCVvyF4Ck1G8h2ZChGN-1">
+          <mxGeometry x="71" y="7246" width="61" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MtCVvyF4Ck1G8h2ZChGN-13" value="&lt;pre&gt;&amp;lt;div class=&quot;container&quot; id=&quot;container&quot;&amp;gt;&lt;br/&gt;  &amp;lt;div&amp;gt;One&amp;lt;/div&amp;gt;&lt;br/&gt;  &amp;lt;div&amp;gt;Item two&amp;lt;/div&amp;gt;&lt;br/&gt;  &amp;lt;div&amp;gt;The item we will refer to as three&amp;lt;/div&amp;gt;&lt;br/&gt;&amp;lt;/div&amp;gt;&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontFamily=Comic Sans MS;fontStyle=1;labelBackgroundColor=none;spacing=2;spacingTop=0;glass=0;spacingLeft=2;" vertex="1" parent="MtCVvyF4Ck1G8h2ZChGN-1">
+          <mxGeometry x="71" y="7291" width="358" height="106" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
