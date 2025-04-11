@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.8" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.9" pages="8">
   <diagram name="Basic" id="YPaVNSCKj1CktQ0j65-P">
     <mxGraphModel dx="1434" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFE6CC" math="0" shadow="0">
       <root>
@@ -708,6 +708,44 @@
         </mxCell>
         <mxCell id="GhAX5w9zmm8xfzinZQSB-18" value="2&lt;span style=&quot;font-size: 8.33333px;&quot;&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="VG_4XI87d04NjKTNAz8h-1">
           <mxGeometry x="50" y="1123" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Timing Functions" id="uvfKzx2DjnSufufNyoMw">
+    <mxGraphModel dx="1428" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFE6CC" math="0" shadow="0">
+      <root>
+        <mxCell id="ISsZW8PQCAbwChcdeZ6a-0" />
+        <mxCell id="ISsZW8PQCAbwChcdeZ6a-1" parent="ISsZW8PQCAbwChcdeZ6a-0" />
+        <mxCell id="ISsZW8PQCAbwChcdeZ6a-2" value="&lt;p&gt;Javascript&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontStyle=1;fontSize=25;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ISsZW8PQCAbwChcdeZ6a-1">
+          <mxGeometry x="260" y="30" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ISsZW8PQCAbwChcdeZ6a-3" value="&lt;p&gt;Javascript&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontStyle=1;fontSize=25;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ISsZW8PQCAbwChcdeZ6a-1">
+          <mxGeometry x="260" y="30" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ISsZW8PQCAbwChcdeZ6a-4" value="Timing Func&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;tions&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Comic Sans MS;fontSize=25;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ISsZW8PQCAbwChcdeZ6a-1">
+          <mxGeometry x="320" y="130" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ISsZW8PQCAbwChcdeZ6a-5" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;function funcName( arguments, .., .. ) {&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&amp;nbsp; &amp;nbsp; console.log(&quot;Shiksha Skills Institute&quot;);&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;}&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;var intervalId = setInterval(&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;funcName, time in ms ( mili seconds&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: &amp;quot;Comic Sans MS&amp;quot;;&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: &amp;quot;Comic Sans MS&amp;quot;;&quot;&gt;&amp;nbsp;)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=15;" vertex="1" parent="ISsZW8PQCAbwChcdeZ6a-1">
+          <mxGeometry x="160" y="430" width="490" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ISsZW8PQCAbwChcdeZ6a-8" value="&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;const intervalID = setInterval( addNewNumber, 1000);&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;function stopAddingNewNumbers(){&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&amp;nbsp; &amp;nbsp; clearInterval(intervalID);&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;}&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;setTimeout( stopAddingNewNumbers, 9000 );&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=15;" vertex="1" parent="ISsZW8PQCAbwChcdeZ6a-1">
+          <mxGeometry x="190" y="670" width="410" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ISsZW8PQCAbwChcdeZ6a-13" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 15px; text-align: left;&quot;&gt;setTimeOut()&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="ISsZW8PQCAbwChcdeZ6a-1">
+          <mxGeometry x="345" y="600" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ISsZW8PQCAbwChcdeZ6a-14" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Timing function is the predefied function for the JS time based executions&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="ISsZW8PQCAbwChcdeZ6a-1">
+          <mxGeometry x="140" y="210" width="550" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ISsZW8PQCAbwChcdeZ6a-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;" edge="1" parent="ISsZW8PQCAbwChcdeZ6a-1" source="ISsZW8PQCAbwChcdeZ6a-16" target="ISsZW8PQCAbwChcdeZ6a-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ISsZW8PQCAbwChcdeZ6a-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Interval is the repeatation on specific time&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Ex. Watch is interval on 1 second&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="ISsZW8PQCAbwChcdeZ6a-1">
+          <mxGeometry x="240" y="340" width="330" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5CiLQbIJTwzvLL1INjQr-0" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 15px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;setInterval()&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="ISsZW8PQCAbwChcdeZ6a-1">
+          <mxGeometry x="359" y="280" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
