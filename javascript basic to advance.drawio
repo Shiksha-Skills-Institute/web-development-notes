@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12" pages="9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13" pages="10">
   <diagram name="Basic" id="YPaVNSCKj1CktQ0j65-P">
     <mxGraphModel dx="1434" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFE6CC" math="0" shadow="0">
       <root>
@@ -892,44 +892,103 @@
       <root>
         <mxCell id="xhzVjjESJg53PGMsaq70-0" />
         <mxCell id="xhzVjjESJg53PGMsaq70-1" parent="xhzVjjESJg53PGMsaq70-0" />
-        <mxCell id="xhzVjjESJg53PGMsaq70-2" value="&lt;p&gt;ES 6+&amp;nbsp;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontStyle=1;fontSize=25;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="xhzVjjESJg53PGMsaq70-1">
+        <mxCell id="xhzVjjESJg53PGMsaq70-2" value="&lt;p&gt;ES 6+&amp;nbsp;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontStyle=1;fontSize=25;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="xhzVjjESJg53PGMsaq70-1" vertex="1">
           <mxGeometry x="244" y="50" width="340" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xhzVjjESJg53PGMsaq70-3" value="Let" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Comic Sans MS;fontSize=25;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="xhzVjjESJg53PGMsaq70-1">
+        <mxCell id="xhzVjjESJg53PGMsaq70-3" value="Let" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Comic Sans MS;fontSize=25;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="xhzVjjESJg53PGMsaq70-1" vertex="1">
           <mxGeometry x="384" y="130" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xhzVjjESJg53PGMsaq70-4" value="&lt;div style=&quot;text-align: left;&quot;&gt;ECMA Scripts standerds 6&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="xhzVjjESJg53PGMsaq70-1">
+        <mxCell id="xhzVjjESJg53PGMsaq70-4" value="&lt;div style=&quot;text-align: left;&quot;&gt;ECMA Scripts standerds 6&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Comic Sans MS;fontSize=15;" parent="xhzVjjESJg53PGMsaq70-1" vertex="1">
           <mxGeometry x="600" y="60" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xhzVjjESJg53PGMsaq70-5" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="xhzVjjESJg53PGMsaq70-1">
+        <mxCell id="xhzVjjESJg53PGMsaq70-5" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="xhzVjjESJg53PGMsaq70-1" vertex="1">
           <mxGeometry x="105" y="380" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xhzVjjESJg53PGMsaq70-6" value="&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;let colors = [&#39;red&#39;, &#39;green&#39;];&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;if( colors.includes(&#39;red&#39;) ){&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&amp;nbsp; &amp;nbsp; let colors = [&#39;red&#39;]&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&amp;nbsp; &amp;nbsp; console.log(colors);&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;}&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;console.log(colors);&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=15;" vertex="1" parent="xhzVjjESJg53PGMsaq70-1">
+        <mxCell id="xhzVjjESJg53PGMsaq70-6" value="&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;let colors = [&#39;red&#39;, &#39;green&#39;];&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;if( colors.includes(&#39;red&#39;) ){&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&amp;nbsp; &amp;nbsp; let colors = [&#39;red&#39;]&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&amp;nbsp; &amp;nbsp; console.log(colors);&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;}&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;console.log(colors);&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=15;" parent="xhzVjjESJg53PGMsaq70-1" vertex="1">
           <mxGeometry x="164" y="180" width="220" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="-6oEiWL5enHInQP9KACA-0" value="&lt;div style=&quot;text-align: left;&quot;&gt;Let is based on scope&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="xhzVjjESJg53PGMsaq70-1">
+        <mxCell id="-6oEiWL5enHInQP9KACA-0" value="&lt;div style=&quot;text-align: left;&quot;&gt;Let is based on scope&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Comic Sans MS;fontSize=15;" parent="xhzVjjESJg53PGMsaq70-1" vertex="1">
           <mxGeometry x="490" y="230" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KRpjK65cwkyVlM7OYQcN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.005;entryY=0.135;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="xhzVjjESJg53PGMsaq70-1" source="-6oEiWL5enHInQP9KACA-0" target="xhzVjjESJg53PGMsaq70-6">
+        <mxCell id="KRpjK65cwkyVlM7OYQcN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.005;entryY=0.135;entryDx=0;entryDy=0;entryPerimeter=0;" parent="xhzVjjESJg53PGMsaq70-1" source="-6oEiWL5enHInQP9KACA-0" target="xhzVjjESJg53PGMsaq70-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KRpjK65cwkyVlM7OYQcN-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;first let has global scope&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="xhzVjjESJg53PGMsaq70-1">
+        <mxCell id="KRpjK65cwkyVlM7OYQcN-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;first let has global scope&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Comic Sans MS;fontSize=15;" parent="xhzVjjESJg53PGMsaq70-1" vertex="1">
           <mxGeometry x="540" y="280" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KRpjK65cwkyVlM7OYQcN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.995;entryY=0.147;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="xhzVjjESJg53PGMsaq70-1" source="KRpjK65cwkyVlM7OYQcN-2" target="xhzVjjESJg53PGMsaq70-6">
+        <mxCell id="KRpjK65cwkyVlM7OYQcN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.995;entryY=0.147;entryDx=0;entryDy=0;entryPerimeter=0;" parent="xhzVjjESJg53PGMsaq70-1" source="KRpjK65cwkyVlM7OYQcN-2" target="xhzVjjESJg53PGMsaq70-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KRpjK65cwkyVlM7OYQcN-4" value="&lt;div style=&quot;text-align: left;&quot;&gt;second let has local scope&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="xhzVjjESJg53PGMsaq70-1">
+        <mxCell id="KRpjK65cwkyVlM7OYQcN-4" value="&lt;div style=&quot;text-align: left;&quot;&gt;second let has local scope&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Comic Sans MS;fontSize=15;" parent="xhzVjjESJg53PGMsaq70-1" vertex="1">
           <mxGeometry x="480" y="330" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KRpjK65cwkyVlM7OYQcN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.709;entryY=0.529;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="xhzVjjESJg53PGMsaq70-1" source="KRpjK65cwkyVlM7OYQcN-4" target="xhzVjjESJg53PGMsaq70-6">
+        <mxCell id="KRpjK65cwkyVlM7OYQcN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.709;entryY=0.529;entryDx=0;entryDy=0;entryPerimeter=0;" parent="xhzVjjESJg53PGMsaq70-1" source="KRpjK65cwkyVlM7OYQcN-4" target="xhzVjjESJg53PGMsaq70-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KRpjK65cwkyVlM7OYQcN-6" value="&lt;div style=&quot;text-align: left;&quot;&gt;When we set the variable on local scope, It will override global&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;one&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="xhzVjjESJg53PGMsaq70-1">
+        <mxCell id="KRpjK65cwkyVlM7OYQcN-6" value="&lt;div style=&quot;text-align: left;&quot;&gt;When we set the variable on local scope, It will override global&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;one&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Comic Sans MS;fontSize=15;" parent="xhzVjjESJg53PGMsaq70-1" vertex="1">
           <mxGeometry x="170" y="400" width="490" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KRpjK65cwkyVlM7OYQcN-7" value="&lt;div style=&quot;text-align: left;&quot;&gt;This has multiple benefits&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1. It will ensure the variable overriding&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2. Less bugs in the script&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3. efficient to write readable code&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="xhzVjjESJg53PGMsaq70-1">
+        <mxCell id="KRpjK65cwkyVlM7OYQcN-7" value="&lt;div style=&quot;text-align: left;&quot;&gt;This has multiple benefits&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1. It will ensure the variable overriding&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2. Less bugs in the script&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3. efficient to write readable code&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Comic Sans MS;fontSize=15;" parent="xhzVjjESJg53PGMsaq70-1" vertex="1">
           <mxGeometry x="264" y="460" width="300" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bOSNeLZNJIeNcqBJ63va-0" value="Const&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Comic Sans MS;fontSize=25;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="xhzVjjESJg53PGMsaq70-1">
+          <mxGeometry x="350" y="584.5" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="ES6 - Loops" id="_FLkEYEMxe9--LQ0wcS9">
+    <mxGraphModel dx="1428" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFE6CC" math="0" shadow="0">
+      <root>
+        <mxCell id="ischDjzOy8wbwZF85txJ-0" />
+        <mxCell id="ischDjzOy8wbwZF85txJ-1" parent="ischDjzOy8wbwZF85txJ-0" />
+        <mxCell id="ischDjzOy8wbwZF85txJ-2" value="&lt;p&gt;Loops - ES6&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontStyle=1;fontSize=25;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ischDjzOy8wbwZF85txJ-1">
+          <mxGeometry x="244" y="50" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ischDjzOy8wbwZF85txJ-3" value="For in" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Comic Sans MS;fontSize=25;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ischDjzOy8wbwZF85txJ-1">
+          <mxGeometry x="369" y="130" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ischDjzOy8wbwZF85txJ-4" value="&lt;div style=&quot;text-align: left;&quot;&gt;ECMA Scripts standerds 6&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="ischDjzOy8wbwZF85txJ-1">
+          <mxGeometry x="600" y="60" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ischDjzOy8wbwZF85txJ-5" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ischDjzOy8wbwZF85txJ-1">
+          <mxGeometry x="105" y="380" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ischDjzOy8wbwZF85txJ-6" value="&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;let colors = { &quot;colour&quot;: &#39;red&#39;,&amp;nbsp; &quot;type&quot;:&quot;green&quot;};&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;for( let key in colors ){&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; console.log(key);&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;}&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;console.log(colors);&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=15;" vertex="1" parent="ischDjzOy8wbwZF85txJ-1">
+          <mxGeometry x="105" y="200" width="340" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ischDjzOy8wbwZF85txJ-7" value="&lt;div style=&quot;text-align: left;&quot;&gt;it iterates with key and object&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="ischDjzOy8wbwZF85txJ-1">
+          <mxGeometry x="530" y="200" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ischDjzOy8wbwZF85txJ-9" value="&lt;div style=&quot;text-align: left;&quot;&gt;first let has the key,&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Which is available to use in loop cycle&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="ischDjzOy8wbwZF85txJ-1">
+          <mxGeometry x="515" y="270" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YDQsKEo3HWqK-zB2Bbt3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ischDjzOy8wbwZF85txJ-1" source="ischDjzOy8wbwZF85txJ-11" target="ischDjzOy8wbwZF85txJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ischDjzOy8wbwZF85txJ-11" value="&lt;div style=&quot;text-align: left;&quot;&gt;second variable is the object&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="ischDjzOy8wbwZF85txJ-1">
+          <mxGeometry x="515" y="340" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ischDjzOy8wbwZF85txJ-13" value="&lt;div style=&quot;text-align: left;&quot;&gt;When we set the variable on local scope, It will override global&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;one&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="ischDjzOy8wbwZF85txJ-1">
+          <mxGeometry x="170" y="400" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ischDjzOy8wbwZF85txJ-14" value="&lt;div style=&quot;text-align: left;&quot;&gt;This has multiple benefits&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1. It will ensure the variable overriding&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2. Less bugs in the script&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3. efficient to write readable code&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="ischDjzOy8wbwZF85txJ-1">
+          <mxGeometry x="264" y="460" width="300" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gNYj2a6w9H__fis2YCo6-0" value="For of" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Comic Sans MS;fontSize=25;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ischDjzOy8wbwZF85txJ-1">
+          <mxGeometry x="345" y="620" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gNYj2a6w9H__fis2YCo6-1" value="&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;for( let key of pTags ){&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&amp;nbsp; &amp;nbsp; key.innerHTML = &#39;TEST&#39;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&amp;nbsp; &amp;nbsp; console.log(key)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;}&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=15;" vertex="1" parent="ischDjzOy8wbwZF85txJ-1">
+          <mxGeometry x="125" y="770" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YDQsKEo3HWqK-zB2Bbt3-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.991;entryY=0.313;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ischDjzOy8wbwZF85txJ-1" source="ischDjzOy8wbwZF85txJ-7" target="ischDjzOy8wbwZF85txJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YDQsKEo3HWqK-zB2Bbt3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.997;entryY=0.627;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ischDjzOy8wbwZF85txJ-1" source="ischDjzOy8wbwZF85txJ-9" target="ischDjzOy8wbwZF85txJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YDQsKEo3HWqK-zB2Bbt3-3" value="&lt;div style=&quot;text-align: left;&quot;&gt;iterable is the one type of data, that contains the various helping methods&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="ischDjzOy8wbwZF85txJ-1">
+          <mxGeometry x="125" y="700" width="540" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
