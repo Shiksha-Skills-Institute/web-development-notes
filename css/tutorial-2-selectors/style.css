@@ -1,0 +1,71 @@
+article p:first-of-type, 
+.article-section p:last-of-type {
+  color: red;
+  font-size: 1.5em;
+}
+
+.article-section p:last-of-type {
+  color: blue;
+  font-size: 24px; /* 1em = 16px 1.5 em = 16px + 8px = 24px*/
+}
+
+#second-p {
+  color: green;
+  font-size: 1.2em;
+}
+
+/* .article-section p:nth-of-type(3){
+    color: purple;
+    font-size: 1.5em;
+} */
+
+/* .article-section p:nth-of-type(odd){
+    color: orange;
+    font-size: 1.5em;
+} */
+
+/* .article-section p:nth-of-type(even){
+    color: orange;
+    font-size: 1.5em;
+} */
+
+/* .article-section p:nth-of-type(1n) { 
+  color: purple !important;
+  font-size: 1.5em;
+} 
+*/
+
+/*.article-section p:nth-of-type(2n) {
+  color: purple !important;
+  font-size: 1.5em;
+} */
+
+/*
+.article-section p:nth-of-type(2n) { 
+  color: purple !important;
+  font-size: 1.5em;
+}
+*/
+
+[target='_blank'] {
+  color: orange;
+  font-size: 1.5em;
+  text-decoration: none;
+}
+
+[id='second-p'] {
+  color: orange !important;
+  font-size: 1.5em;
+  text-decoration: none;
+}
+
+ul li::marker {
+  color: red;
+  font-size: 5em;
+}
+
+p::selection {
+    background-color: yellow;
+    color: black;
+    text-decoration:wavy underline;
+}
