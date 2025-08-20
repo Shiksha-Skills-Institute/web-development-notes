@@ -1,3 +1,12 @@
+/* * {
+  text-decoration: underline;
+} */
+
+p {
+  color: black;
+  font-size: 1em;
+}
+
 article p:first-of-type, 
 .article-section p:last-of-type {
   color: red;
@@ -47,13 +56,13 @@ article p:first-of-type,
 }
 */
 
-[target='_blank'] {
+[target="_blank"] {
   color: orange;
   font-size: 1.5em;
   text-decoration: none;
 }
 
-[id='second-p'] {
+.article-section [id="second-p"] {
   color: orange !important;
   font-size: 1.5em;
   text-decoration: none;
