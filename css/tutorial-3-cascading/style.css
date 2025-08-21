@@ -1,0 +1,26 @@
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+button {
+    width: 700px;
+    height: 200px;
+    margin-bottom: 50px;
+    color: rebeccapurple;
+}
+
+section .cascading-button {
+    color: green !important;
+}
+
+.cascading-button {
+    color: red !important;
+}
+
+
+button {
+    color: red;
+}

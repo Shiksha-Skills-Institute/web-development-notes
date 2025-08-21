@@ -78,3 +78,9 @@ p::selection {
     color: black;
     text-decoration:wavy underline;
 }
+
+p:first-child:before {
+    content: "";
+    background: blue;
+    padding: 20px;
+}
