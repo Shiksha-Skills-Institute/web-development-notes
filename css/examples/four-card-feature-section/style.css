@@ -1,0 +1,62 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --primary-red: hsl(0, 78%, 62%);
+    --primary-cyan: hsl(180, 62%, 55%);
+    --primary-orange: hsl(34, 97%, 64%);
+    --primary-blue: hsl(212, 86%, 64%);
+    --neutral-grey-500: hsl(234, 12%, 34%);
+    --neutral-grey-400: hsl(212, 6%, 44%);
+    --neutral-white: hsl(0, 0%, 100%);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+}
+
+.services {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.services h2 {
+    font-weight: 200;
+    font-size: 30px;
+    color: var(--neutral-grey-400);
+    margin-bottom: 0px;
+    line-height: normal;
+}
+
+.services h3 {
+    margin-top: 5px;
+    font-weight: 600;
+    font-size: 30px;
+    color: var(--neutral-grey-500);
+    line-height: normal;
+    margin-bottom: 0px;
+}
+
+.services > p {
+    text-align: center;
+    font-weight: 400;
+    width: 30%;
+    color: var(--neutral-grey-400);
+}
+
+.services .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
