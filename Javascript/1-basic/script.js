@@ -1,7 +1,8 @@
 // window.alert("Hello");
 
 var headingElement = document.getElementsByTagName('h1');
-console.log(headingElement.length);
+console.log(headingElement);
+console.log(headingElement[1]);
 
 var idElement = document.getElementById('some-id');
 
@@ -24,3 +25,10 @@ var queryAllClass = document.querySelectorAll('.some-class')
 console.log('QueryAll Element', queryAllClass)
 console.log('QueryAll Length', queryClass.length);
 
+var rendomP = document.getElementsByClassName('random-p');
+rendomP[0].addEventListener('click', function() {
+//    alert('You clicked the paragraph!');
+    this.style.backgroundColor = 'red';
+});
+
+console.log('Random P', rendomP);
