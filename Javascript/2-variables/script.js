@@ -1,11 +1,13 @@
-var someDataVariable = "String"
-someDataVariable = 20
+var someDataVariable = "String sagsdfgd";
+//someDataVariable = `String sagsdfgd ${20 + 30}`;
+//someDataVariable = 20
+//someDataVariable = true
 // someDataVariable = null
 // someDataVariable = undefined
 
 let dataNewVariable = "20"
 
-console.log( someDataVariable );
+console.log( typeof(someDataVariable) );
 
 var textElement = document.querySelector('.text');
 textElement.innerHTML = someDataVariable + parseInt(dataNewVariable)
@@ -32,7 +34,7 @@ console.log(thirdItem)
 var a = ['bus', 'this is new'];
 console.log('a value is', a[0]);
 
-var multipleArray = ['20', 21, "Test", true];
+var multipleArray = ['20', 21, "Test", true, '20', 21, "Test", true, '20', 21, "Test", true, '20', 21, "Test", true];
 
 console.log(multipleArray);
 

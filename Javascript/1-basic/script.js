@@ -1,11 +1,8 @@
 // window.alert("Hello");
 
 var headingElement = document.getElementsByTagName('h1');
-console.log(headingElement);
-console.log(headingElement[1]);
 
 var idElement = document.getElementById('some-id');
-
 
 console.log(idElement)
 
