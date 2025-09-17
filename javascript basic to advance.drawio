@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.1" pages="15">
   <diagram name="Basic" id="YPaVNSCKj1CktQ0j65-P">
-    <mxGraphModel dx="983" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFE6CC" math="0" shadow="0">
+    <mxGraphModel dx="839" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFE6CC" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -301,6 +301,9 @@
         <mxCell id="FBVBhch-tIrtLfHdaLch-47" value="getElementsByID()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="285" y="2010" width="180" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="srr-iH5JKJBFUmd_XEz8-2" value="" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="FBVBhch-tIrtLfHdaLch-51" target="srr-iH5JKJBFUmd_XEz8-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FBVBhch-tIrtLfHdaLch-51" value="querySelectorAll()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="295" y="2160" width="170" height="30" as="geometry" />
         </mxCell>
@@ -381,6 +384,9 @@
         <mxCell id="k5uDBYKQ7TenJcz46t1B-8" value="Ram" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="325" y="3615" width="60" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="cTk2jzvAw5u2snzLVG8I-2" value="" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fontColor=default;autosize=1;resizable=0;startSize=8;endSize=8;" edge="1" parent="1" source="k5uDBYKQ7TenJcz46t1B-11" target="cTk2jzvAw5u2snzLVG8I-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="k5uDBYKQ7TenJcz46t1B-11" value="Capecitors" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontFamily=Comic Sans MS;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="425" y="3615" width="120" height="40" as="geometry" />
         </mxCell>
@@ -404,11 +410,47 @@
             <mxGeometry x="40" y="820" width="370" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="srr-iH5JKJBFUmd_XEz8-1" value="CCS Rules" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="620" y="2160" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cTk2jzvAw5u2snzLVG8I-4" value="" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fontColor=default;autosize=1;resizable=0;startSize=8;endSize=8;" edge="1" parent="1" source="cTk2jzvAw5u2snzLVG8I-1" target="cTk2jzvAw5u2snzLVG8I-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cTk2jzvAw5u2snzLVG8I-1" value="0 / 1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=17;fontColor=default;autosize=1;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="3550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cTk2jzvAw5u2snzLVG8I-3" value="Capacitor&lt;div&gt;charged or not&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=17;fontFamily=Comic Sans MS;fillColor=none;autosize=1;resizable=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="644" y="3610" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cTk2jzvAw5u2snzLVG8I-7" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=17;fontColor=default;autosize=1;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="594" y="3720" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cTk2jzvAw5u2snzLVG8I-8" value="" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fontColor=default;autosize=1;resizable=0;startSize=8;endSize=8;curved=1;entryX=0.335;entryY=0.986;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="cTk2jzvAw5u2snzLVG8I-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="3730" as="sourcePoint" />
+            <mxPoint x="601" y="3700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="3730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cTk2jzvAw5u2snzLVG8I-9" value="" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fontColor=default;autosize=1;resizable=0;startSize=8;endSize=8;curved=1;exitX=0.145;exitY=0.186;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="cTk2jzvAw5u2snzLVG8I-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="629.81" y="3735" as="sourcePoint" />
+            <mxPoint x="600" y="3700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cTk2jzvAw5u2snzLVG8I-10" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_2;fontFamily=Comic Sans MS;fontSize=17;fontColor=default;autosize=1;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="3680" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cTk2jzvAw5u2snzLVG8I-11" value="ax1202" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=17;fontColor=default;autosize=1;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="134" y="3800" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="conditional statments" id="Vf7i0y-dOmuWpEBOHacB">
-    <mxGraphModel dx="1434" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFE6CC" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFE6CC" math="0" shadow="0">
       <root>
         <mxCell id="vxpcMzrHcLjeTY7pgPmU-0" />
         <mxCell id="vxpcMzrHcLjeTY7pgPmU-1" parent="vxpcMzrHcLjeTY7pgPmU-0" />
@@ -436,7 +478,7 @@
         <mxCell id="uIeZsn7puIqYISZpVriJ-32" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span&gt;if(&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;;&quot;&gt;condition1&lt;/span&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span&gt;&amp;nbsp;) {&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;console.log(&quot;Hello&quot;);&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span&gt;} else if&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;;&quot;&gt;condition2&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;)&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;{&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;console.log(&quot;Else Part&quot;);&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;}&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;else {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;console.log(&quot;Else Part&quot;);&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;}&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=15;" parent="vxpcMzrHcLjeTY7pgPmU-1" vertex="1">
           <mxGeometry x="104" y="1500" width="230" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="-sD3W7NZaQdP9pt8NIWn-0" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span&gt;switch(&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;;&quot;&gt;expression&lt;/span&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span&gt;&amp;nbsp;) {&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;case value1:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;console.log(&quot;Hello&quot;);&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;break;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;case value2:&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;console.log(&quot;Hello2&quot;);&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;break;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;default:&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;console.log(&quot;Default&quot;);&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=15;" vertex="1" parent="vxpcMzrHcLjeTY7pgPmU-1">
+        <mxCell id="-sD3W7NZaQdP9pt8NIWn-0" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span&gt;switch(&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;;&quot;&gt;expression&lt;/span&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span&gt;&amp;nbsp;) {&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;case value1:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;console.log(&quot;Hello&quot;);&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;break;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;case value2:&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;console.log(&quot;Hello2&quot;);&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;break;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;default:&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;console.log(&quot;Default&quot;);&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=15;" parent="vxpcMzrHcLjeTY7pgPmU-1" vertex="1">
           <mxGeometry x="95" y="2045" width="250" height="200" as="geometry" />
         </mxCell>
         <mxCell id="uIeZsn7puIqYISZpVriJ-37" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;( condition ) ?&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;console.log(&quot;Hello&quot;) : console.log(&quot;false Condition&quot;)&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=15;" parent="vxpcMzrHcLjeTY7pgPmU-1" vertex="1">
@@ -515,7 +557,7 @@
         <mxCell id="uIeZsn7puIqYISZpVriJ-33" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span&gt;elseif statement&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=15;" parent="vxpcMzrHcLjeTY7pgPmU-1" vertex="1">
           <mxGeometry x="334" y="1440" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-sD3W7NZaQdP9pt8NIWn-3" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span&gt;Switch Case statement&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=15;rounded=0;shadow=0;glass=0;" vertex="1" parent="vxpcMzrHcLjeTY7pgPmU-1">
+        <mxCell id="-sD3W7NZaQdP9pt8NIWn-3" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span&gt;Switch Case statement&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=15;rounded=0;shadow=0;glass=0;" parent="vxpcMzrHcLjeTY7pgPmU-1" vertex="1">
           <mxGeometry x="300" y="1980" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uIeZsn7puIqYISZpVriJ-38" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span&gt;turne&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ry statement&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=15;" parent="vxpcMzrHcLjeTY7pgPmU-1" vertex="1">
@@ -527,7 +569,7 @@
         <mxCell id="uIeZsn7puIqYISZpVriJ-34" value="&lt;span style=&quot;text-align: left;&quot;&gt;condition1 must be &lt;b&gt;false&lt;/b&gt;&amp;nbsp;to execute else if statement&lt;/span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;condition2 must be &lt;b&gt;true&lt;/b&gt;&amp;nbsp;to execute else if statement&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Comic Sans MS;fontSize=15;" parent="vxpcMzrHcLjeTY7pgPmU-1" vertex="1">
           <mxGeometry x="350" y="1510" width="400" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-sD3W7NZaQdP9pt8NIWn-5" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Expression should return 1 value&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;That value will be matched by &lt;b&gt;case&amp;nbsp;&lt;/b&gt;&amp;nbsp;statement&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;default will be execute if no case match&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;if we do not use break; next cases will run&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="vxpcMzrHcLjeTY7pgPmU-1">
+        <mxCell id="-sD3W7NZaQdP9pt8NIWn-5" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Expression should return 1 value&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;That value will be matched by &lt;b&gt;case&amp;nbsp;&lt;/b&gt;&amp;nbsp;statement&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;default will be execute if no case match&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;if we do not use break; next cases will run&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Comic Sans MS;fontSize=15;" parent="vxpcMzrHcLjeTY7pgPmU-1" vertex="1">
           <mxGeometry x="390" y="2060" width="350" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uIeZsn7puIqYISZpVriJ-35" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;else if statement should end with else statement&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Comic Sans MS;fontSize=15;" parent="vxpcMzrHcLjeTY7pgPmU-1" vertex="1">
@@ -1201,6 +1243,57 @@
             <mxPoint x="379" y="953" as="sourcePoint" />
             <mxPoint x="438" y="877" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cCVVRCksyQUckkGHMxN4-4" value="" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fontColor=default;autosize=1;resizable=0;startSize=8;endSize=8;" edge="1" parent="1" source="cCVVRCksyQUckkGHMxN4-1" target="cCVVRCksyQUckkGHMxN4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cCVVRCksyQUckkGHMxN4-1" value="Data&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=17;fontColor=default;autosize=1;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="99" y="1196" width="61" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="cCVVRCksyQUckkGHMxN4-7" value="" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fontColor=default;autosize=1;resizable=0;startSize=8;endSize=8;" edge="1" parent="1" source="cCVVRCksyQUckkGHMxN4-3" target="cCVVRCksyQUckkGHMxN4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cCVVRCksyQUckkGHMxN4-3" value="&quot;Test&quot;" style="whiteSpace=wrap;html=1;fontSize=17;fontFamily=Comic Sans MS;fillColor=none;autosize=1;resizable=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275.5" y="1196" width="70" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="cCVVRCksyQUckkGHMxN4-6" value="String" style="whiteSpace=wrap;html=1;fontSize=17;fontFamily=Comic Sans MS;fillColor=none;autosize=1;resizable=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="466.5" y="1196" width="69" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="cCVVRCksyQUckkGHMxN4-10" value="" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fontColor=default;autosize=1;resizable=0;startSize=8;endSize=8;" edge="1" parent="1" source="cCVVRCksyQUckkGHMxN4-8" target="cCVVRCksyQUckkGHMxN4-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cCVVRCksyQUckkGHMxN4-8" value="Data&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=17;fontColor=default;autosize=1;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="97" y="1264" width="61" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="cCVVRCksyQUckkGHMxN4-12" value="" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fontColor=default;autosize=1;resizable=0;startSize=8;endSize=8;" edge="1" parent="1" source="cCVVRCksyQUckkGHMxN4-9" target="cCVVRCksyQUckkGHMxN4-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cCVVRCksyQUckkGHMxN4-9" value="200" style="whiteSpace=wrap;html=1;fontSize=17;fontFamily=Comic Sans MS;fillColor=none;autosize=1;resizable=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="284.5" y="1264" width="49" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="cCVVRCksyQUckkGHMxN4-11" value="Number" style="whiteSpace=wrap;html=1;fontSize=17;fontFamily=Comic Sans MS;fillColor=none;autosize=1;resizable=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="438" y="1264" width="81" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="cCVVRCksyQUckkGHMxN4-15" value="" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fontColor=default;autosize=1;resizable=0;startSize=8;endSize=8;" edge="1" parent="1" source="cCVVRCksyQUckkGHMxN4-13" target="cCVVRCksyQUckkGHMxN4-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cCVVRCksyQUckkGHMxN4-13" value="Data&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=17;fontColor=default;autosize=1;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="99" y="1332" width="61" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="cCVVRCksyQUckkGHMxN4-17" value="" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fontColor=default;autosize=1;resizable=0;startSize=8;endSize=8;" edge="1" parent="1" source="cCVVRCksyQUckkGHMxN4-14" target="cCVVRCksyQUckkGHMxN4-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cCVVRCksyQUckkGHMxN4-14" value="true / False" style="whiteSpace=wrap;html=1;fontSize=17;fontFamily=Comic Sans MS;fillColor=none;autosize=1;resizable=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="254.5" y="1332" width="112" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="cCVVRCksyQUckkGHMxN4-16" value="Boolean" style="whiteSpace=wrap;html=1;fontSize=17;fontFamily=Comic Sans MS;fillColor=none;autosize=1;resizable=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445.25" y="1332" width="78" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="i95-t4Zn8DtaPAqyDYXE-1" value="&lt;div&gt;C language&lt;/div&gt;int a;&lt;div&gt;a = 20;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontFamily=Comic Sans MS;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="113.25" y="1402" width="100" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="i95-t4Zn8DtaPAqyDYXE-2" value="&lt;div&gt;JS language&lt;/div&gt;var a = 20;&lt;div&gt;let a = 20;&lt;/div&gt;&lt;div&gt;const a = 20;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontFamily=Comic Sans MS;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="254.5" y="1394" width="119" height="94" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
