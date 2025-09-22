@@ -11,12 +11,10 @@ var menuFlag = 0; // Chowkidar
 menuIcon.addEventListener('click', function(){
     if( menuFlag == 0 ){ // right gai
         navLinks.style.display = 'flex';
-        alert("Menu Open");
         menuFlag = 2;
     } else {
         navLinks.style.display = 'none';
         menuFlag = 0;
-        alert("Menu Close");
     }
 })
 
